@@ -1,4 +1,9 @@
-# REDES_Verificador-ip .
+# REDES_Verificador-ip
+
+## Membros 
+- Eder Amorim;
+- Erick Amorim;
+
 ## Tecnologias Usadas:
 - Next;
 - Node js;
